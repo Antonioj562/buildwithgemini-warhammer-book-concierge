@@ -4,8 +4,6 @@
 
 <div align="center">
 
-![Warhammer 40k & 30k Book Concierge Demo](assets/demo.gif)
-
 [![Build with Gemini](https://img.shields.io/badge/Build%20with%20Gemini-Track%203-4285F4?logo=google&logoColor=white)](https://antigravity.google)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Agent%20Platform-4285F4?logo=googlecloud&logoColor=white)](https://cloud.google.com/vertex-ai)
 [![ADK Framework](https://img.shields.io/badge/Built%20with-ADK%20%2B%20agents--cli-34A853)](https://google.github.io/adk-docs/)
@@ -20,6 +18,12 @@
 Navigating the vast universe of Warhammer 40,000 and the 54+ volume Horus Heresy (30,000) series can be overwhelming for both newcomers and seasoned Warhammer veterans.
 
 The **Warhammer 40k & 30k Book Concierge** is an agentic AI assistant designed to solve this problem. Built on Google's Agent Development Kit (ADK) and deployed to Vertex AI Agent Platform, it provides grounded literature recommendations, tracks reading history in real time, generates custom cartoon cover art and cinematic videos, and presents rich interactive cards.
+
+<div align="center">
+
+![Warhammer 40k & 30k Book Concierge Demo](assets/demo.gif)
+
+</div>
 
 ---
 
