@@ -1,0 +1,57 @@
+# Black Library Official Warhammer 40,000 & 30,000 Reference Guide
+
+## 1. Eisenhorn: Xenos
+- **Author**: Dan Abnett
+- **Series**: Inquisitor Eisenhorn Trilogy (Book #1)
+- **Faction**: Inquisitorial Ordo Xenos / Imperium of Man
+- **Protagonist**: Inquisitor Gregor Eisenhorn
+- **Key Plot**: Inquisitor Gregor Eisenhorn hunts down the rogue noble Eychren and uncovers a widespread cosmic conspiracy involving an ancient alien blasphemy known as the Necroteuch—an unholy tome of forbidden Warp knowledge. Guided by his retinue (including Savant Aemos, Alizabeth Bequin, and Uber Aemil), Eisenhorn travels across multiple worlds to destroy Chaos corruption and rogue alien artifacts.
+- **Key Themes**: Investigative noir sci-fi, moral compromises of the Inquisition, daemonhosts (Cherubael), and the grim reality of Imperial justice.
+
+## 2. Gaunt's Ghosts: First and Only
+- **Author**: Dan Abnett
+- **Series**: Gaunt's Ghosts (Book #1)
+- **Faction**: Astra Militarum (Imperial Guard) — Tanith First-and-Only
+- **Protagonist**: Colonel-Commissar Ibram Gaunt
+- **Key Plot**: Set during the Sabbat Worlds Crusade, the Tanith 1st regiment—sole survivors of their destroyed forest homeworld of Tanith—fight in brutal trenches and urban warzones. Colonel-Commissar Ibram Gaunt must navigate political betrayals from rival Imperial commanders while leading his scout specialists against the bloodthirsty forces of Chaos Warmaster Macaroth.
+- **Key Themes**: Gritty military ground combat, camaraderie, scout stealth tactics, Imperial Guard sacrifices, and commissar leadership.
+
+## 3. Helsreach
+- **Author**: Aaron Dembski-Bowden
+- **Series**: Space Marine Battles
+- **Faction**: Space Marines — Black Templars Chapter
+- **Protagonist**: Reclusiarch Mharren Grimaldus
+- **Key Plot**: During the Third War for Armageddon, millions of Orks led by Warmaster Ghazghkull Thraka land on the hive world of Armageddon. Newly appointed Reclusiarch Grimaldus leads a small strike force of Black Templars to defend the colossal hive city of Helsreach. Facing endless waves of Orks, Imperial Guard defenders, and Titan Legions, Grimaldus swears an oath that Helsreach will never fall while a single Templar draws breath.
+- **Key Themes**: Heroic last stands, zealotry, Black Templar honor, titan warfare, and desperate urban defense.
+
+## 4. The Infinite and the Divine
+- **Author**: Robert Rath
+- **Series**: Standalone Necron Masterpiece
+- **Faction**: Necrons
+- **Protagonists**: Trazyn the Infinite (Archivist of Solemnace) & Orikan the Diviner (Astromancer)
+- **Key Plot**: Over ten thousand years, two immortal Necron lords engage in a legendary, petty feud over an ancient artifact called the Astral Cladogram on the planet Serenade. Trazyn uses stasis vaults and historical trickery, while Orikan manipulates time and celestial alignments. Their conflict inadvertently causes planetary catastrophes, Ork invasions, Genestealer Cult uprisings, and C'tan shard threats.
+- **Key Themes**: Immortal rivalry, Necron politics, time manipulation, cosmic comedy, and 40k history collection.
+
+## 5. Dark Imperium
+- **Author**: Guy Haley
+- **Series**: Dark Imperium Trilogy (Book #1)
+- **Faction**: Ultramarines / Imperium of Man vs Death Guard / Nurgle
+- **Protagonist**: Lord Commander & Primarch Roboute Guilliman
+- **Key Plot**: Following his resurrection at the end of the 41st Millennium, Primarch Roboute Guilliman launches the Indomitus Crusade to reclaim a fractured Imperium divided by the Great Rift. Guilliman returns to his realm of Ultramar to battle his corrupted Daemon Primarch brother, Mortarion of the Death Guard, who has unleashed the Plague Wars upon the Five Hundred Worlds.
+- **Key Themes**: Era Indomitus, Primaris Space Marines, Primarch rivalries, Nurgle plagues, and Imperial logistics.
+
+## 6. Night Lords: Soul Hunter
+- **Author**: Aaron Dembski-Bowden
+- **Series**: Night Lords Trilogy (Book #1)
+- **Faction**: Chaos Space Marines — Night Lords (First Claw)
+- **Protagonist**: Talos Valcoran (The Soul Hunter)
+- **Key Plot**: Talos Valcoran leads First Claw of the 10th Company, Night Lords Legion, struggling to survive in the 41st Millennium long after the death of their Primarch, Konrad Curze. Operating from the strike cruiser *Covenant of Blood*, they scavenge for armor and ammo while waging terror warfare against the Imperium and Blood Angels.
+- **Key Themes**: Tragedy of Heresy veterans, terror tactics, legion brotherhood, dark humor, and anti-hero perspectives.
+
+## 7. Horus Heresy: Legion
+- **Author**: Dan Abnett
+- **Series**: Horus Heresy Series (Book #7)
+- **Faction**: Alpha Legion (30k) & Imperial Army (Geno Five-Two Chiliad)
+- **Protagonists**: Alpharius, Omegon, John Grammaticus (The Cabal)
+- **Key Plot**: Prior to the outbreak of the Horus Heresy, the XX Legion (Alpha Legion) operates covertly alongside the Geno Five-Two Chiliad on the world of Nurth. An ancient alien alliance known as The Cabal contacts Alpharius and Omegon, presenting them with a tragic vision of the future: if the Emperor wins the Heresy, Chaos will slowly consume humanity over 10,000 years; if Horus wins, his guilt will destroy Chaos at the cost of human extinction.
+- **Key Themes**: Secret motivations, Alpharius/Omegon duality, espionage, The Cabal, and the ultimate moral dilemma of the Heresy.
