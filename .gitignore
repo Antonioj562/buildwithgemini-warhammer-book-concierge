@@ -212,7 +212,9 @@ credentials*.json
 assets/
 *.gif
 *.mp4
-!assets/demo.gif
+!assets/*.gif
+!assets/*.png
+
 
 
 

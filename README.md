@@ -129,6 +129,26 @@ gcloud run deploy warhammer-book-concierge-frontend \
 
 ---
 
+## 🎬 Faction Cover Art & Short Video Showcase
+
+Below are cartoon comic-book style cover art animations and generated illustrations for various Warhammer 40k factions generated using Google's Omni model (`gemini-omni-flash-preview`) and `gemini-3.1-flash-lite-image`:
+
+| Ork Waaagh! Cover Art | Ultramarine Space Marine | Adeptus Mechanicus Tech-Priest |
+|:---:|:---:|:---:|
+| ![Ork Waaagh Cover Art](assets/ork_cover.gif) | ![Ultramarine Cover Art](assets/ultramarine_cover.gif) | ![Adeptus Mechanicus Cover Art](assets/adeptus_mechanicus_cover.gif) |
+| [Watch Full MP4](https://storage.googleapis.com/warhammer-book-concierge-covers-qwiklabs-gcp-04-4af6105616e2/ork_waaagh_cover_art_video.mp4) | [Watch Full MP4](https://storage.googleapis.com/warhammer-book-concierge-covers-qwiklabs-gcp-04-4af6105616e2/ultramarine_space_marine_cover_art_video.mp4) | [Watch Full MP4](https://storage.googleapis.com/warhammer-book-concierge-covers-qwiklabs-gcp-04-4af6105616e2/adeptus_mechanicus_tech_priest_cover_art_video.mp4) |
+
+### 🎨 Generated Book Cover Art Example
+<div align="center">
+
+![Dark Imperium Cartoon Cover Art](assets/dark_imperium_cartoon_cover.png)  
+*Dark Imperium - Comic Book Style Cover Art*
+
+</div>
+
+---
+
 ## 📄 License
 
 This project was built during Track 3 of the **Build with Gemini** workshop for demonstration purposes.
+
