@@ -212,6 +212,8 @@ credentials*.json
 assets/
 *.gif
 *.mp4
+!assets/demo.gif
+
 
 
 # --- added by publish-to-github skill ---
